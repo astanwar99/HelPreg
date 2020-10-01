@@ -1,6 +1,6 @@
 # pregnency_helper
 
-A new Flutter application.
+A new Flutter application. This app was made to help preganent women.
 
 ## Getting Started
 
